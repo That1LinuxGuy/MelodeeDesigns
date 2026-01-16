@@ -1,0 +1,21 @@
+.gitguide
+
+# Hugo output
+/public/
+
+# Hugo cache & resources
+/resources/_gen/
+*.hugo_build.lock
+
+# OS / editor stuff
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Node / asset pipeline (optional, if you use npm)
+node_modules/
+package-lock.json
+yarn.lock
+dist/
