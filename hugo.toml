@@ -1,9 +1,45 @@
-baseURL = 'https://That1LinuxGuy.github.io/MelodeeDesigns'
+baseURL = 'http://localhost'
+#baseURL = 'https://That1LinuxGuy.github.io/MelodeeDesigns'
 relativeURLs = true
 canonifyURLs = true
 languageCode = 'en-us'
 title = 'MelodeeDesigns'
 theme = 'tella'
+enableRobotsTXT = true
+
+[params]
+
+  showBlog = false
+  mainSections = ['home']
+
+  googleFonts = true
+
+  [prams.logo]
+    main = "img/logo/logo.svg"
+    alt = "MelodeeDesigns Logo"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-14"
+
+  [params.site]
+    name = "MelodeeDesigns"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fontawesome = false
+
+
+  [params.homepage_meta_tags]
+    meta_description = "MelodeeDesigns - Costumes for all your shows needs"
+    meta_og_title = "MelodeeDesigns"
+    meta_og_type = "website"
+    meta_og_url = "https://MelodeeDesigns.com"
+    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_twitter_card = "summary_large_image"
+    meta_twitter_site = "@username"
+    meta_twitter_creator = "@username"
 
 [menu]
 
