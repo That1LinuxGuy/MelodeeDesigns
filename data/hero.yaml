@@ -1,0 +1,16 @@
+title: "Rent the Perfect Costume"
+subtitle: "Theatre • Events • Parties"
+
+images:
+  - "/images/hero/Costume1.jpg" 
+  - "/images/hero/Costume2.jpg" 
+  - "/images/hero/Costume3.jpg" 
+
+button:
+  text: "Browse Costumes"
+  link: "#gallery"
+
+
+
+
+
