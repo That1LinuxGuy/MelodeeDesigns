@@ -51,8 +51,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "slide01.jpg" # used in: hero, and card
+  layout = "card" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/slide01.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -63,12 +63,12 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = true
+  showDate = false 
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   # showAuthorBottom = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
@@ -81,7 +81,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = false

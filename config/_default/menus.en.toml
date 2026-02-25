@@ -12,18 +12,23 @@
 
 [[main]]
   name = "Home"
-  pageRef = "#"
+  url = "/"
   weight = 10
 
 [[main]]
   name = "About"
-  pageRef = "About"
+  url = "/about/"
   weight = 20
 
 [[main]]
   name = "Gallery"
-  pageRef = "Gallery"
-  weight = 20
+  url = "/gallery/"
+  weight = 30
+
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 40
 
 [[main]]
   name = "Beauty and the Beast"
