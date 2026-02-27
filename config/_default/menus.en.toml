@@ -33,13 +33,13 @@
 [[main]]
   name = "Beauty and the Beast"
   parent = "Gallery"
-  pageRef = "Gallery"
+  pageRef = "Beauty"
   weight = 30
 
 [[main]]
   name = "Fiddler on the Roof"
   parent = "Gallery"
-  pageRef = "Gallery"
+  pageRef = "Fiddler"
   weight = 30
 
 #[[subnavigation]]
