@@ -1,8 +1,8 @@
 ---
 title: "See Our Previous Shows"
-
-sections:
-  - Beauty and the Beast
-  - Fiddler on the Roof
-  - CHS CALHOUN
+# date: 2024-01-01
+# showDate: true
+# layout: "list"
 ---
+
+*Not all costumes shown are available for rental*
