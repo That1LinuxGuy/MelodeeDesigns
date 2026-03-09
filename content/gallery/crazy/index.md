@@ -1,10 +1,10 @@
 ---
-Title: "Crazy for You"
+title: "Crazy for You"
 date: 2016-01-01
 showDate: false
-layout: "gallery" 
+layout: "card" 
 # Thumbnail for card on the gallery page
-thumbnail: "o1.webp"
+featureImage: "01.webp"
 ---
 
 Covenant Chritian Academy 2016
