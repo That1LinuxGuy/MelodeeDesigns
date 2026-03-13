@@ -30,10 +30,10 @@
   url = "/contact/"
   weight = 40
 
-#[[main]]
-#  name = "Beauty and the Beast"
-#  pageRef = "Gallery"
-#  weight = 30
+[[main]]
+  name = "FAQs"
+  url = "/faq/"
+  weight = 50
 
 #[[main]]
 #  name = "Fiddler on the Roof"
