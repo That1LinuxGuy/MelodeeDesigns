@@ -2,6 +2,7 @@
 title: "Melodee Designs Costume Rentals"
 date: 2026-03-03
 #showDate: false
+externalUrl: "https://facebook.com"
 ---
 {{< lead >}}
 North Alabama Local Costumes
@@ -12,3 +13,6 @@ North Alabama Local Costumes
 {{< alert "gallery" >}}
 See more [costume examples](/gallery) here!
 {{< /alert >}}
+
+---
+### [follow us! {{< icon "facebook" >}}](https://facebook.com)
