@@ -1,4 +1,4 @@
-name: Build and Deploy to Second Repo
+name: Build and Deploy to gh-pages
 
 on:
   push:
@@ -10,16 +10,16 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
-          submodules: recursive  # Crucial for the Blowfish theme
+          submodules: true       # needed for theme
           fetch-depth: 0         # Fetch all history for dates/metadata
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.141.0'
-          extended: true         # Required for Blowfish/Tailwind
+          hugo-version: '0.160.0'
+          extended: true
 
       - name: Build Site
         run: hugo --minify
@@ -28,7 +28,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          external_repository: That1LinuxGuy/MelodeeDesignSite
-          publish_branch: main
+          publish_branch: gh-pages 
