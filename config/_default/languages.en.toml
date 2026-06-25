@@ -11,18 +11,18 @@ title = "Melodee Designs"
   dateFormat = "2 January 2006"
   logo = "img/Melodee.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "Melodee Designs Costume Rentals"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Michael Allen"
-#   email = "michael@713602.xyz"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "Always Learning"
-#   bio = "I am an Air Force Veteran working towards a fulfilling career in Tech"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[params.author]
+  name = "Michael Allen"
+  email = "mcallen71398@gmail.com"
+  image = "img/blowfish_logo.png"
+  imageQuality = 96
+  headline = "Always Learning"
+  # bio = ""
+  links = [
+    { email = "mailto:mcallen71398@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -35,7 +35,7 @@ title = "Melodee Designs"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/That1LinuxGuy" },
+    { github = "https://github.com/That1LinuxGuy" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -73,4 +73,4 @@ title = "Melodee Designs"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]

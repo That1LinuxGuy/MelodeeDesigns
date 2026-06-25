@@ -5,7 +5,7 @@ showDate: false
 layout: card
 ---
 
-# Covenant Christian Academy 2017
+Decatur Alabama 2026
 
 {{< gallery >}}
   <img src="01.webp" class="grid-w45" />

@@ -2,14 +2,24 @@
 title: Frequently Asked Questions
 ---
 
-**Question 1:** What areas do you service?
+{{< lead >}}
+What areas do you service?
+{{< /lead >}}
 
-*We service these locations*
+*Our customers are currently all located in the Decatur, Alabama area. But we service all Madison County!*
 
-**Question 2:** Do you have a sample rental agreement?
+{{< lead >}}
+How does pricing work?
+{{< /lead >}}
 
-Indeed we do!
+*Each costume has a set rental price and replacement price if it is severly damaged in the production. You can also review our sample rental aggement!*
 
 {{< button href="#button" target="_self" >}}
 Download it here
 {{< /button >}}
+
+{{< lead >}}
+Do you rent individual costumes?
+{{< /lead >}}
+
+*We do! Our main priority is designing beautiful productions, but we are always willing to help with special halloween requests!*
