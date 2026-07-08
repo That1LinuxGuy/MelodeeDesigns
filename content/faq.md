@@ -6,13 +6,15 @@ title: Frequently Asked Questions
 What areas do you service?
 {{< /lead >}}
 
-*Our customers are currently all located in the Decatur, Alabama area. But we service all Madison County!*
+*Our customers are currently all located in the Decatur, Alabama area. But we service all North Alabama!*
+
+*We serve locations beyond 60 miles on a case by case basis*
 
 {{< lead >}}
 How does pricing work?
 {{< /lead >}}
 
-*Each costume has a set rental price and replacement price if it is severly damaged in the production. You can also review our sample rental aggement!*
+*Each costume has a set rental price and replacement price if it is severly damaged in the production. You can also review our sample rental agreement!*
 
 {{< button href="#button" target="_self" >}}
 Download it here
