@@ -4,7 +4,7 @@ date: 2026-01-01
 showDate: false
 ---
 
-Covenant Chritian Academy 2016
+DHCS 2024
 
 {{< gallery >}}
   <img src="01.webp" class="grid-w33" />
