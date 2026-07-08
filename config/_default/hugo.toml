@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" 
-baseURL = "https://that1linuxguy.github.io/MelodeeDesigns/"
+baseURL = "https://melodee-designs.com"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
