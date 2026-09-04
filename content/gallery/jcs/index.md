@@ -11,4 +11,5 @@ Decatur Alabama 2026
   <img src="01.webp" class="grid-w45" />
   <img src="02.webp" class="grid-w55" />
   <img src="03.webp" class="grid-w55" />
+  <img src="featured.png" class="grid-w100" />
 {{< /gallery >}}

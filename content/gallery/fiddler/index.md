@@ -7,7 +7,8 @@ showDate: false
 Covenant Christian Academy 2017
 
 {{< gallery >}}
-  <img src="01.webp" class="grid-w100" />
+  <img src="01.webp" class="grid-w50" />
   <img src="02.webp" class="grid-w100" />
+  <img src="featured.png" class="grid-w50" />
 {{< /gallery >}}
 
