@@ -14,12 +14,11 @@ Check out our [previous shows](/gallery), or [contact us](/contact) to book a co
 {{< /alert >}}
 
 ---
+<div class="flex flex-wrap justify-center items-center gap-4 my-4">
 
 {{< lead >}}
 Quality Costumes and Service
 {{< /lead >}}
-
-<div class="flex flex-wrap justify-center items-center gap-4 my-4">
 
 We have thousands of garments available, and our selection grows every day. We can capably costume multiple full-cast productions, and anything we don't have can be hand-crafted to create the *seamless* experience you need.
 

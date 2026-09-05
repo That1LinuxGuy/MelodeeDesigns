@@ -35,10 +35,10 @@
   url = "/faq/"
   weight = 50
 
-#[[main]]
-#  name = "Fiddler on the Roof"
-#  pageRef = "Gallery"
-#  weight = 30
+[[main]]
+  name = "Halloween"
+  pageRef = "/holiday/"
+  weight = 60
 
 #[[subnavigation]]
 #  name = "An interesting topic"
