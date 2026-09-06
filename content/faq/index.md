@@ -1,5 +1,7 @@
 ---
 title: Frequently Asked Questions
+showHero: true
+heroStyle: "background"
 ---
 
 {{< lead >}}
@@ -14,11 +16,7 @@ What areas do you service?
 How does pricing work?
 {{< /lead >}}
 
-*Each costume has a set rental price and replacement price if it is severly damaged in the production. You can also review our sample rental agreement!*
-
-{{< button href="#button" target="_self" >}}
-Download it here
-{{< /button >}}
+*Each costume has a set rental price and replacement price if it is severly damaged. Costume Reservations require a 50% non-refundable deposit*
 
 {{< lead >}}
 Do you rent individual costumes?
