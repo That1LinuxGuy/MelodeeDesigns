@@ -35,14 +35,6 @@ Q. What should we expect when we rent from Melodee Designs for our production?
 A. *At Melodee Designs we want to be the resource that best fits your needs. That starts with the foundation of our service - the consultation. We will meet with you in person, by phone or video chat to discuss your project, what you need and how you see Melodee Designs involvement. Whether Melodee Designs measures the cast and creates the whole look of your show or a few stock pieces are delivered to you is up to you. By tech week you will have everything you need sorted, labeled and with a detailed packing list in hand and ready for dress rehearsals.*
 
 {{< lead >}}
-Q. What should we expect when we rent from Melodee Designs for our production?
-{{< /lead >}}
-
-A. *here are three basic options for transporting costumes. Pick up by the renter (you), delivery by Melodee Designs, or shipping by common carrier such as UPS, FEDX or USPS paid by the renter.*
-
-*Since first fittings are an especially important part of costuming, we recommend letting Melodee Designs deliver your costumes. For an additional mileage fee, we will deliver the costumes to your facility at a time when your cast can try everything on. We always bring alternative pieces in case our first options don’t work out. Once that fitting is complete we will leave the pieces that work and return at a later time with anything that needs to be added to complete the show.*
-
-{{< lead >}}
 Q. Are we allowed to alter the garments?
 {{< /lead >}}
 
