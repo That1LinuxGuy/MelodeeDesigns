@@ -2,6 +2,8 @@
 # to edit and which Hugo files should appear in the editor.
 backend:
   name: github
+  repo: That1LinuxGuy/MelodeeDesigns
+  branch: main
   # Run vencax/netlify-cms-github-oauth-provider (or an equivalent
   # OAuth service) at this URL. Replace this with your actual provider URL.
   base_url: https://auth.melodee-designs.com
