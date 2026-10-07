@@ -1,0 +1,65 @@
+# Decap CMS configuration. This file tells Decap which GitHub repository
+# to edit and which Hugo files should appear in the editor.
+backend:
+  name: github
+  # Run vencax/netlify-cms-github-oauth-provider (or an equivalent
+  # OAuth service) at this URL. Replace this with your actual provider URL.
+  base_url: https://auth.melodee-designs.com
+
+site_url: https://melodee-designs.com
+media_folder: assets/img
+public_folder: /img
+
+collections:
+  - name: pages
+    label: Pages
+    files:
+      - name: home
+        label: Home page
+        file: content/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Date, name: date, widget: datetime, required: false }
+          - { label: External URL, name: externalUrl, widget: string, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - name: about
+        label: About
+        file: content/about/index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Show hero, name: showHero, widget: boolean, required: false }
+          - { label: Hero style, name: heroStyle, widget: string, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - name: contact
+        label: Contact
+        file: content/contact/index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - name: faq
+        label: FAQ
+        file: content/faq/index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Show hero, name: showHero, widget: boolean, required: false }
+          - { label: Hero style, name: heroStyle, widget: string, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - name: holiday
+        label: Holiday
+        file: content/holiday/index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Show hero, name: showHero, widget: boolean, required: false }
+          - { label: Hero style, name: heroStyle, widget: string, required: false }
+          - { label: Body, name: body, widget: markdown }
+
+  - name: gallery
+    label: Gallery
+    folder: content/gallery
+    path: "{{slug}}/index.md"
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, required: false }
+      - { label: Show date, name: showDate, widget: boolean, required: false }
+      - { label: Body, name: body, widget: markdown, required: false }
