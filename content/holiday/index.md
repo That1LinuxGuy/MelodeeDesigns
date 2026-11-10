@@ -1,35 +1,28 @@
 ---
-title: "Halloween"
+title: "Christmas"
 showHero: true
 heroStyle: "background"
 ---
 
 <div class="justify-end">
 
-{{< alert icon="fire" cardColor="#FF7518" iconColor="#1d3557" textColor="#f1faee" >}}
-Reserve your costume before September 30th for a 10% discount!*
+{{< alert icon="bell" cardColor="#3C8D0D" iconColor="#C30F16" textColor="#C30F16" >}}
+Reserve your Santa Suit before November 30th for a 10% discount!
 {{< /alert >}}
 
 </div>
 
 <div class="text-center">
 
-Don’t let the kids have all the fun! Halloween is the perfect time for
-  grown-ups to play dress-up too! What do you want to be?
+**If you are looking for a high quality Santa Costume, Melodee Designs is the only  place to go!**
 
-Ghost |  Grim Reaper  |  Witch/Wizard
+Santa Claus  |  Mrs. Claus
 ---
-Cowboy | Policeman | Renaissance Lord/Lady
+Elves  |  Rudolph  |  The Grinch
 ---
-Jazz age Dancer | Mob Gangster | Janitor
----
-And more!
----
----
-***Or our personal favorite...***
 
 {{< lead >}}
-**come share your vision and let Melodee Designs help you bring it to life! [Contact us](mailto:melodee.allen@proton.me?subject=Costume%20Rental%20Inquiry) to make an appointment**
+**Let Melodee Designs help you bring Christmas to life! [Contact us](mailto:melodee.allen@proton.me?subject=Costume%20Rental%20Inquiry) to make an appointment**
 {{< /lead >}}
 
 *Reservation requires 50% non-refundable deposit
