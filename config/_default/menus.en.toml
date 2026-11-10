@@ -36,7 +36,7 @@
   weight = 50
 
 [[main]]
-  name = "Halloween"
+  name = "Christmas"
   pageRef = "/holiday/"
   weight = 60
 
